@@ -74,7 +74,6 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/Whocrs/Autofilter-bot/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
@@ -107,4 +106,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
+ - Thanks To AlbertEinsteinTG for his Awesome [Autofilter bot](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2)
