@@ -74,6 +74,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/Whocrs/Autofilter-bot/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
