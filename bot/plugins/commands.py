@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = f"``{file_name}`` \n @cinimakoot" ,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🌌Our Channel🌌', url="https://t.me/Cinimaworld_tm"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Our Channel', url='https://t.me/Cinimaworld_tm'),
+        InlineKeyboardButton('Our Group', url='https://t.me/Cinimakoot')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Source Code 🔗', url ='https://github.com/Whocrs/Autofilter-bot')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
